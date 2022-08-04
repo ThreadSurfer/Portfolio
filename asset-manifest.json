@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.abad57ae.css",
+    "main.js": "/Portfolio/static/js/main.6009fe24.js",
+    "static/js/787.b98c23e5.chunk.js": "/Portfolio/static/js/787.b98c23e5.chunk.js",
+    "static/media/OakwoodPacific.jpg": "/Portfolio/static/media/OakwoodPacific.849c13269f2bafb27bb2.jpg",
+    "static/media/Arduino.jpg": "/Portfolio/static/media/Arduino.daaa9f31e6ac546fef77.jpg",
+    "static/media/Apartments.jpg": "/Portfolio/static/media/Apartments.9d1e2b61eb53207d9868.jpg",
+    "static/media/UserFetch-API.jpg": "/Portfolio/static/media/UserFetch-API.854a6cc67a529a37f8ee.jpg",
+    "static/media/katching.jpg": "/Portfolio/static/media/katching.b251e5472260934ceadd.jpg",
+    "static/media/LemonAid.jpg": "/Portfolio/static/media/LemonAid.4587435cb49427994f6e.jpg",
+    "static/media/selfie.jpg": "/Portfolio/static/media/selfie.24794b9b699b2cf80940.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.abad57ae.css.map": "/Portfolio/static/css/main.abad57ae.css.map",
+    "main.6009fe24.js.map": "/Portfolio/static/js/main.6009fe24.js.map",
+    "787.b98c23e5.chunk.js.map": "/Portfolio/static/js/787.b98c23e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abad57ae.css",
+    "static/js/main.6009fe24.js"
+  ]
+}
