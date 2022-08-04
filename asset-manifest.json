@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.abad57ae.css",
-    "main.js": "/static/js/main.bef443bb.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.js": "/static/js/main.e3410a83.js",
+    "static/js/787.b98c23e5.chunk.js": "/static/js/787.b98c23e5.chunk.js",
     "static/media/OakwoodPacific.jpg": "/static/media/OakwoodPacific.849c13269f2bafb27bb2.jpg",
     "static/media/Arduino.jpg": "/static/media/Arduino.daaa9f31e6ac546fef77.jpg",
     "static/media/Apartments.jpg": "/static/media/Apartments.9d1e2b61eb53207d9868.jpg",
@@ -12,11 +12,11 @@
     "static/media/selfie.jpg": "/static/media/selfie.24794b9b699b2cf80940.jpg",
     "index.html": "/index.html",
     "main.abad57ae.css.map": "/static/css/main.abad57ae.css.map",
-    "main.bef443bb.js.map": "/static/js/main.bef443bb.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.e3410a83.js.map": "/static/js/main.e3410a83.js.map",
+    "787.b98c23e5.chunk.js.map": "/static/js/787.b98c23e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abad57ae.css",
-    "static/js/main.bef443bb.js"
+    "static/js/main.e3410a83.js"
   ]
 }
