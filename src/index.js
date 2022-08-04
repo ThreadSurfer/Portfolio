@@ -1,20 +1,20 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import ProjectPage from './components/ProjectPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<App />}/>
         <Route path="/ProjectPage/:id" element={<ProjectPage />}/>
         <Route />
       </Routes>
-    </BrowserRouter>,
+    </HashRouter>,
     document.getElementById('root')
 );
 
