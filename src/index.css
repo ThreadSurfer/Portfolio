@@ -330,7 +330,6 @@ body > #root > div.projectPage {
   margin: 0 auto;
   border: 0px solid;
   display: fixed;
-  overflow: scroll;
 }
 
 .videoPlayer {
